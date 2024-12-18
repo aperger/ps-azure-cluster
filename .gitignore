@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Files genrated by code
+domain/cert
+.env
+environment.ts
